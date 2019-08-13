@@ -1,3 +1,5 @@
+
+# -*- coding:utf-8 -*-
 from Tvplay import MovieInfoModel
 import re
 import requests
